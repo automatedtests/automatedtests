@@ -21,6 +21,7 @@ I strive to meet the highest quality possible but each project of course has its
 * Projects will execute both in command line using the build tool or in the IDE
 * Example code will execute without errors
 * All projects will run on multiple browsers with one command
+* All frameworks will execute on atleast 2 browsers
 
 #### Reporting
 * Reports are automatically generated
