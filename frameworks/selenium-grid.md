@@ -2,6 +2,7 @@
 layout: page
 title: Selenium Grid
 permalink: /frameworks/selenium-grid
+icon: /images/selenium.png
 ---
 
 ### Overview

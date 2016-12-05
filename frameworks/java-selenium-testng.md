@@ -2,6 +2,7 @@
 layout: page
 title: Java | Selenium | TestNG
 permalink: /frameworks/java-selenium-testng
+icon: /images/selenium.png
 ---
 ### Overview
 This project uses Selenium as an interface for the browser and testNG as the testing framework. Tests are written as normal unit tests and are annotated using the `@Test` annotation.
