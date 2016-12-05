@@ -2,6 +2,7 @@
 layout: page
 title: Testautomation
 permalink: /
+icon: /images/cogs.png
 ---
 
 * [Java \| Selenium \| TestNG](frameworks/java-selenium-testng)
